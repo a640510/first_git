@@ -1,3 +1,3 @@
 class Footer {
-    int footSize = 20;
+    int footSize = 30f;
 }
